@@ -9,8 +9,8 @@ terraform {
 
   # backend configuration block
   backend "azurerm" {
-    resource_group_name  = "hackerkiste-resources"
-    storage_account_name = "hackerkistetfstate"
+    resource_group_name  = "ChrisAKSTest"
+    storage_account_name = "chrishackerkistetfstate"
     container_name       = "tfstate"
     key                  = "haongasin.tfstate"
   }
