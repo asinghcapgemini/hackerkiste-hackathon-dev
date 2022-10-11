@@ -12,7 +12,7 @@ terraform {
     resource_group_name  = "ChrisAKSTest"
     storage_account_name = "chrishackerkistetfstate"
     container_name       = "tfstate"
-    key                  = "haongasin.tfstate"
+    key                  = "gJJID84Ot2QRYZjBYXfP3DvoGVpYEYpKunWS+Ogvy1/7leFSpstxMs4xpZUs7qpZGlJxNJAiTkAu+AStI234Xw=="
   }
 }
 
